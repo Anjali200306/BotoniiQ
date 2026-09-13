@@ -1,0 +1,10 @@
+{
+  "model": "species_v3_best.pth",
+  "test_images": 1041,
+  "top1_correct": 951,
+  "top1_incorrect": 90,
+  "top1_accuracy": 0.9135446685878963,
+  "top3_accuracy": 0.9731027857829011,
+  "num_classes": 71,
+  "device": "cuda"
+}

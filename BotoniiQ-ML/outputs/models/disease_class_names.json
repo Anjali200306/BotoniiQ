@@ -1,0 +1,30 @@
+{
+    "classes": [
+        "Kalanchoe_Healthy",
+        "Kalanchoe_Web_Blight",
+        "Kalanchoe_Yellow",
+        "Kalanchoe_Yellow_Blight",
+        "Neem_Healthy",
+        "Neem_Spot",
+        "Neem_Web_Blight",
+        "Neem_Yellow",
+        "Tulsi_Downy_Mildew",
+        "Tulsi_Healthy",
+        "Tulsi_Web_Blight",
+        "Tulsi_Yellow_Spot"
+    ],
+    "class_to_idx": {
+        "Kalanchoe_Healthy": 0,
+        "Kalanchoe_Web_Blight": 1,
+        "Kalanchoe_Yellow": 2,
+        "Kalanchoe_Yellow_Blight": 3,
+        "Neem_Healthy": 4,
+        "Neem_Spot": 5,
+        "Neem_Web_Blight": 6,
+        "Neem_Yellow": 7,
+        "Tulsi_Downy_Mildew": 8,
+        "Tulsi_Healthy": 9,
+        "Tulsi_Web_Blight": 10,
+        "Tulsi_Yellow_Spot": 11
+    }
+}

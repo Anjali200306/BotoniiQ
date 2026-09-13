@@ -1,0 +1,19 @@
+actual,image,prediction,confidence,top1_correct,top3_correct,top1,top2,top3
+Aloevera,Aloevera\aloevera_1.jpg,Aloevera,99.5652,True,True,Aloevera,Ginger,Onion
+Aloevera,Aloevera\aloevera_2.jpg,Aloevera,97.2019,True,True,Aloevera,Bamboo,Ginger
+Aloevera,Aloevera\aloevera_3.jpg,Aloevera,89.1184,True,True,Aloevera,Bamboo,Ginger
+Aloevera,Aloevera\aloevera_4.jpg,Aloevera,99.6386,True,True,Aloevera,Ginger,Bamboo
+Mint,Mint\mint_1.jpg,Mint,99.9572,True,True,Mint,Tulsi,Guava
+Mint,Mint\mint_2.jpg,Mint,80.7314,True,True,Mint,Tulsi,Kambajala
+Mint,Mint\mint_3.jpg,Mint,99.8825,True,True,Mint,Tulsi,Coriender
+Mint,Mint\mint_4.jpg,Mint,97.4051,True,True,Mint,Tulsi,Malabar_Spinach
+Neem,Neem\neem_1.jpg,Aloevera,60.7812,False,True,Aloevera,Neem,Mint
+Neem,Neem\neem_1_leaf_full.jpg,Neem,35.7174,True,True,Neem,Padri,Chakte
+Neem,Neem\neem_2.jpg,Neem,83.0555,True,True,Neem,Chakte,Mango
+Neem,Neem\neem_3.jpg,Common rue(naagdalli),61.9402,False,True,Common rue(naagdalli),Neem,Drumstick
+Neem,Neem\neem_leaf.jpg,Mint,87.891,False,False,Mint,Gasagase,Aloevera
+Tulsi,Tulsi\tulsi_1.jpg,Tulsi,99.2248,True,True,Tulsi,Amruthaballi,Mint
+Tulsi,Tulsi\tulsi_2.jpg,Tulsi,97.2405,True,True,Tulsi,Common rue(naagdalli),Mint
+Tulsi,Tulsi\tulsi_3.jpg,Tulsi,73.2203,True,True,Tulsi,Mint,Lemon
+Tulsi,Tulsi\tulsi_4.jpg,Tulsi,78.2465,True,True,Tulsi,Amruthaballi,Kambajala
+Tulsi,Tulsi\tulsi_5.jpg,Tulsi,99.2075,True,True,Tulsi,Kambajala,Mint

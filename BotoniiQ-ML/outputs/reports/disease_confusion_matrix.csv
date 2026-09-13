@@ -1,0 +1,13 @@
+Actual / Predicted,Kalanchoe_Healthy,Kalanchoe_Web_Blight,Kalanchoe_Yellow,Kalanchoe_Yellow_Blight,Neem_Healthy,Neem_Spot,Neem_Web_Blight,Neem_Yellow,Tulsi_Downy_Mildew,Tulsi_Healthy,Tulsi_Web_Blight,Tulsi_Yellow_Spot
+Kalanchoe_Healthy,32,0,0,0,0,0,0,0,0,0,0,0
+Kalanchoe_Web_Blight,0,32,0,0,0,0,0,0,0,0,0,0
+Kalanchoe_Yellow,0,0,30,0,0,0,0,0,0,0,0,0
+Kalanchoe_Yellow_Blight,0,0,0,32,0,0,0,0,0,0,0,0
+Neem_Healthy,0,0,0,0,37,0,0,0,0,0,0,0
+Neem_Spot,0,0,0,0,0,32,0,0,0,0,0,0
+Neem_Web_Blight,0,0,0,0,0,0,30,0,0,0,0,0
+Neem_Yellow,0,0,0,0,0,0,0,34,0,0,0,0
+Tulsi_Downy_Mildew,0,0,0,0,0,0,0,0,30,0,0,0
+Tulsi_Healthy,0,0,0,0,0,0,0,0,0,32,0,0
+Tulsi_Web_Blight,0,0,0,0,0,0,0,0,0,0,31,0
+Tulsi_Yellow_Spot,0,0,0,0,0,0,0,0,0,0,0,31

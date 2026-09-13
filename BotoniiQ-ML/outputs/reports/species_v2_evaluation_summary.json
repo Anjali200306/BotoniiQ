@@ -1,0 +1,11 @@
+{
+    "model": "EfficientNet-B0 Species V2",
+    "model_path": "D:\\BotoniiQ\\BotoniiQ-ML\\outputs\\models\\species_v2_best.pth",
+    "test_images": 1041,
+    "correct": 980,
+    "incorrect": 61,
+    "top1_accuracy": 0.9414024975984631,
+    "top3_accuracy": 0.9827089337175793,
+    "num_classes": 71,
+    "device": "cpu"
+}

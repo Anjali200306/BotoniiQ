@@ -1,0 +1,30 @@
+BOTONIIQ - DISEASE MODEL EVALUATION
+======================================================================
+
+Test Images: 383
+Top-1 Accuracy: 100.0000%
+Top-3 Accuracy: 100.0000%
+Macro Precision: 1.0000
+Macro Recall: 1.0000
+Macro F1-Score: 1.0000
+
+Classification Report
+======================================================================
+                         precision    recall  f1-score   support
+
+      Kalanchoe_Healthy     1.0000    1.0000    1.0000        32
+   Kalanchoe_Web_Blight     1.0000    1.0000    1.0000        32
+       Kalanchoe_Yellow     1.0000    1.0000    1.0000        30
+Kalanchoe_Yellow_Blight     1.0000    1.0000    1.0000        32
+           Neem_Healthy     1.0000    1.0000    1.0000        37
+              Neem_Spot     1.0000    1.0000    1.0000        32
+        Neem_Web_Blight     1.0000    1.0000    1.0000        30
+            Neem_Yellow     1.0000    1.0000    1.0000        34
+     Tulsi_Downy_Mildew     1.0000    1.0000    1.0000        30
+          Tulsi_Healthy     1.0000    1.0000    1.0000        32
+       Tulsi_Web_Blight     1.0000    1.0000    1.0000        31
+      Tulsi_Yellow_Spot     1.0000    1.0000    1.0000        31
+
+               accuracy                         1.0000       383
+              macro avg     1.0000    1.0000    1.0000       383
+           weighted avg     1.0000    1.0000    1.0000       383

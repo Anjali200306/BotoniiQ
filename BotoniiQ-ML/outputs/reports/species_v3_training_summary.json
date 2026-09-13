@@ -1,0 +1,115 @@
+{
+  "model": "EfficientNet-B0",
+  "starting_model": "D:\\BotoniiQ\\BotoniiQ-ML\\outputs\\models\\species_v2_best.pth",
+  "output_model": "D:\\BotoniiQ\\BotoniiQ-ML\\outputs\\models\\species_v3_best.pth",
+  "num_classes": 71,
+  "original_images": 4540,
+  "real_world_images": 90,
+  "total_samples": 4630,
+  "real_world_weight": 8.0,
+  "batch_size": 4,
+  "epochs_requested": 12,
+  "backbone_lr": 5e-06,
+  "classifier_lr": 2e-05,
+  "weight_decay": 0.0001,
+  "device": "cuda",
+  "best_training_loss": 0.43871807680016717,
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 0.9337624105727441,
+      "accuracy": 0.7894168466522679,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 299.13282680511475
+    },
+    {
+      "epoch": 2,
+      "loss": 0.7338356128875689,
+      "accuracy": 0.8269978401727862,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 277.59254717826843
+    },
+    {
+      "epoch": 3,
+      "loss": 0.6479089587959048,
+      "accuracy": 0.8453563714902808,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 267.4339289665222
+    },
+    {
+      "epoch": 4,
+      "loss": 0.5771962715630655,
+      "accuracy": 0.8613390928725702,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 262.90428853034973
+    },
+    {
+      "epoch": 5,
+      "loss": 0.5840872928355347,
+      "accuracy": 0.8505399568034557,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 258.87989115715027
+    },
+    {
+      "epoch": 6,
+      "loss": 0.557682714428648,
+      "accuracy": 0.8576673866090713,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 268.14537525177
+    },
+    {
+      "epoch": 7,
+      "loss": 0.5214322947665695,
+      "accuracy": 0.8779697624190065,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 257.2043426036835
+    },
+    {
+      "epoch": 8,
+      "loss": 0.5106140279422311,
+      "accuracy": 0.8699784017278618,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 255.57821822166443
+    },
+    {
+      "epoch": 9,
+      "loss": 0.48864707308087185,
+      "accuracy": 0.8788336933045356,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 246.51589632034302
+    },
+    {
+      "epoch": 10,
+      "loss": 0.4793227598159604,
+      "accuracy": 0.8790496760259179,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 254.57807040214539
+    },
+    {
+      "epoch": 11,
+      "loss": 0.4443167979223553,
+      "accuracy": 0.8894168466522678,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 247.4876663684845
+    },
+    {
+      "epoch": 12,
+      "loss": 0.43871807680016717,
+      "accuracy": 0.8881209503239741,
+      "backbone_lr": 5e-06,
+      "classifier_lr": 2e-05,
+      "time_seconds": 242.02942991256714
+    }
+  ]
+}

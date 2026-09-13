@@ -1,0 +1,50 @@
+{
+    "model": "species_v4_best.pth",
+    "model_path": "D:\\BotoniiQ\\BotoniiQ-ML\\outputs\\models\\species_v4_best.pth",
+    "class_mapping": "D:\\BotoniiQ\\BotoniiQ-ML\\outputs\\models\\species_v4_class_names.json",
+    "dataset": "D:\\BotoniiQ\\BotoniiQ-ML\\dataset\\real_world_test",
+    "device": "cuda",
+    "num_classes": 71,
+    "total_images": 18,
+    "top1_correct": 16,
+    "top1_incorrect": 2,
+    "top1_accuracy_percent": 88.8889,
+    "top3_correct": 17,
+    "top3_accuracy_percent": 94.4444,
+    "actual_class_counts": {
+        "Aloevera": 4,
+        "Mint": 4,
+        "Neem": 5,
+        "Tulsi": 5
+    },
+    "per_class": {
+        "Aloevera": {
+            "total": 4,
+            "top1_correct": 4,
+            "top3_correct": 4,
+            "top1_accuracy_percent": 100.0,
+            "top3_accuracy_percent": 100.0
+        },
+        "Mint": {
+            "total": 4,
+            "top1_correct": 4,
+            "top3_correct": 4,
+            "top1_accuracy_percent": 100.0,
+            "top3_accuracy_percent": 100.0
+        },
+        "Neem": {
+            "total": 5,
+            "top1_correct": 4,
+            "top3_correct": 4,
+            "top1_accuracy_percent": 80.0,
+            "top3_accuracy_percent": 80.0
+        },
+        "Tulsi": {
+            "total": 5,
+            "top1_correct": 4,
+            "top3_correct": 5,
+            "top1_accuracy_percent": 80.0,
+            "top3_accuracy_percent": 100.0
+        }
+    }
+}

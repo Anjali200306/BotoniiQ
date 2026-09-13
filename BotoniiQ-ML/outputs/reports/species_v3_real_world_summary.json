@@ -1,0 +1,241 @@
+{
+  "model": "species_v3_best.pth",
+  "dataset": "real_world_test",
+  "device": "cuda",
+  "total_images": 18,
+  "top1_correct": 15,
+  "top1_wrong": 3,
+  "top1_accuracy": 83.3333,
+  "top3_correct": 17,
+  "top3_accuracy": 94.4444,
+  "per_class": {
+    "Aloevera": {
+      "total": 4,
+      "top1_correct": 4,
+      "top3_correct": 4,
+      "top1_accuracy": 100.0,
+      "top3_accuracy": 100.0
+    },
+    "Mint": {
+      "total": 4,
+      "top1_correct": 4,
+      "top3_correct": 4,
+      "top1_accuracy": 100.0,
+      "top3_accuracy": 100.0
+    },
+    "Neem": {
+      "total": 5,
+      "top1_correct": 2,
+      "top3_correct": 4,
+      "top1_accuracy": 40.0,
+      "top3_accuracy": 80.0
+    },
+    "Tulsi": {
+      "total": 5,
+      "top1_correct": 5,
+      "top3_correct": 5,
+      "top1_accuracy": 100.0,
+      "top3_accuracy": 100.0
+    }
+  },
+  "images": [
+    {
+      "actual": "Aloevera",
+      "image": "Aloevera\\aloevera_1.jpg",
+      "prediction": "Aloevera",
+      "confidence": 99.5652,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Aloevera",
+      "top2": "Ginger",
+      "top3": "Onion"
+    },
+    {
+      "actual": "Aloevera",
+      "image": "Aloevera\\aloevera_2.jpg",
+      "prediction": "Aloevera",
+      "confidence": 97.2019,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Aloevera",
+      "top2": "Bamboo",
+      "top3": "Ginger"
+    },
+    {
+      "actual": "Aloevera",
+      "image": "Aloevera\\aloevera_3.jpg",
+      "prediction": "Aloevera",
+      "confidence": 89.1184,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Aloevera",
+      "top2": "Bamboo",
+      "top3": "Ginger"
+    },
+    {
+      "actual": "Aloevera",
+      "image": "Aloevera\\aloevera_4.jpg",
+      "prediction": "Aloevera",
+      "confidence": 99.6386,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Aloevera",
+      "top2": "Ginger",
+      "top3": "Bamboo"
+    },
+    {
+      "actual": "Mint",
+      "image": "Mint\\mint_1.jpg",
+      "prediction": "Mint",
+      "confidence": 99.9572,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Mint",
+      "top2": "Tulsi",
+      "top3": "Guava"
+    },
+    {
+      "actual": "Mint",
+      "image": "Mint\\mint_2.jpg",
+      "prediction": "Mint",
+      "confidence": 80.7314,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Mint",
+      "top2": "Tulsi",
+      "top3": "Kambajala"
+    },
+    {
+      "actual": "Mint",
+      "image": "Mint\\mint_3.jpg",
+      "prediction": "Mint",
+      "confidence": 99.8825,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Mint",
+      "top2": "Tulsi",
+      "top3": "Coriender"
+    },
+    {
+      "actual": "Mint",
+      "image": "Mint\\mint_4.jpg",
+      "prediction": "Mint",
+      "confidence": 97.4051,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Mint",
+      "top2": "Tulsi",
+      "top3": "Malabar_Spinach"
+    },
+    {
+      "actual": "Neem",
+      "image": "Neem\\neem_1.jpg",
+      "prediction": "Aloevera",
+      "confidence": 60.7812,
+      "top1_correct": false,
+      "top3_correct": true,
+      "top1": "Aloevera",
+      "top2": "Neem",
+      "top3": "Mint"
+    },
+    {
+      "actual": "Neem",
+      "image": "Neem\\neem_1_leaf_full.jpg",
+      "prediction": "Neem",
+      "confidence": 35.7174,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Neem",
+      "top2": "Padri",
+      "top3": "Chakte"
+    },
+    {
+      "actual": "Neem",
+      "image": "Neem\\neem_2.jpg",
+      "prediction": "Neem",
+      "confidence": 83.0555,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Neem",
+      "top2": "Chakte",
+      "top3": "Mango"
+    },
+    {
+      "actual": "Neem",
+      "image": "Neem\\neem_3.jpg",
+      "prediction": "Common rue(naagdalli)",
+      "confidence": 61.9402,
+      "top1_correct": false,
+      "top3_correct": true,
+      "top1": "Common rue(naagdalli)",
+      "top2": "Neem",
+      "top3": "Drumstick"
+    },
+    {
+      "actual": "Neem",
+      "image": "Neem\\neem_leaf.jpg",
+      "prediction": "Mint",
+      "confidence": 87.891,
+      "top1_correct": false,
+      "top3_correct": false,
+      "top1": "Mint",
+      "top2": "Gasagase",
+      "top3": "Aloevera"
+    },
+    {
+      "actual": "Tulsi",
+      "image": "Tulsi\\tulsi_1.jpg",
+      "prediction": "Tulsi",
+      "confidence": 99.2248,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Tulsi",
+      "top2": "Amruthaballi",
+      "top3": "Mint"
+    },
+    {
+      "actual": "Tulsi",
+      "image": "Tulsi\\tulsi_2.jpg",
+      "prediction": "Tulsi",
+      "confidence": 97.2405,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Tulsi",
+      "top2": "Common rue(naagdalli)",
+      "top3": "Mint"
+    },
+    {
+      "actual": "Tulsi",
+      "image": "Tulsi\\tulsi_3.jpg",
+      "prediction": "Tulsi",
+      "confidence": 73.2203,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Tulsi",
+      "top2": "Mint",
+      "top3": "Lemon"
+    },
+    {
+      "actual": "Tulsi",
+      "image": "Tulsi\\tulsi_4.jpg",
+      "prediction": "Tulsi",
+      "confidence": 78.2465,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Tulsi",
+      "top2": "Amruthaballi",
+      "top3": "Kambajala"
+    },
+    {
+      "actual": "Tulsi",
+      "image": "Tulsi\\tulsi_5.jpg",
+      "prediction": "Tulsi",
+      "confidence": 99.2075,
+      "top1_correct": true,
+      "top3_correct": true,
+      "top1": "Tulsi",
+      "top2": "Kambajala",
+      "top3": "Mint"
+    }
+  ]
+}

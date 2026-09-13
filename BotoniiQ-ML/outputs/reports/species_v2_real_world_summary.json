@@ -1,0 +1,267 @@
+{
+    "model": "Species V2 EfficientNet-B0",
+    "total_images": 18,
+    "top1_correct": 2,
+    "top1_wrong": 16,
+    "top1_accuracy": 0.1111111111111111,
+    "top3_correct": 3,
+    "top3_accuracy": 0.16666666666666666,
+    "per_class": {
+        "Aloevera": {
+            "total": 4,
+            "correct": 0,
+            "top3_correct": 0
+        },
+        "Mint": {
+            "total": 4,
+            "correct": 0,
+            "top3_correct": 1
+        },
+        "Neem": {
+            "total": 5,
+            "correct": 0,
+            "top3_correct": 0
+        },
+        "Tulsi": {
+            "total": 5,
+            "correct": 2,
+            "top3_correct": 2
+        }
+    },
+    "results": [
+        {
+            "image": "aloevera_1.jpg",
+            "actual": "Aloevera",
+            "prediction": "Betel",
+            "confidence": 20.23,
+            "top3": [
+                "Betel",
+                "Common rue(naagdalli)",
+                "Nooni"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "aloevera_2.jpg",
+            "actual": "Aloevera",
+            "prediction": "Bamboo",
+            "confidence": 19.86,
+            "top3": [
+                "Bamboo",
+                "Papaya",
+                "Castor"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "aloevera_3.jpg",
+            "actual": "Aloevera",
+            "prediction": "Papaya",
+            "confidence": 34.32,
+            "top3": [
+                "Papaya",
+                "Betel",
+                "Taro"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "aloevera_4.jpg",
+            "actual": "Aloevera",
+            "prediction": "Betel",
+            "confidence": 29.02,
+            "top3": [
+                "Betel",
+                "Ginger",
+                "Ganigale"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "mint_1.jpg",
+            "actual": "Mint",
+            "prediction": "Common rue(naagdalli)",
+            "confidence": 84.74,
+            "top3": [
+                "Common rue(naagdalli)",
+                "Drumstick",
+                "Tulsi"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "mint_2.jpg",
+            "actual": "Mint",
+            "prediction": "Padri",
+            "confidence": 27.98,
+            "top3": [
+                "Padri",
+                "Tomato",
+                "Nerale"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "mint_3.jpg",
+            "actual": "Mint",
+            "prediction": "Common rue(naagdalli)",
+            "confidence": 33.8,
+            "top3": [
+                "Common rue(naagdalli)",
+                "Coriender",
+                "Mint"
+            ],
+            "correct": false,
+            "top3_correct": true
+        },
+        {
+            "image": "mint_4.jpg",
+            "actual": "Mint",
+            "prediction": "Nelavembu",
+            "confidence": 14.55,
+            "top3": [
+                "Nelavembu",
+                "Citron lime (herelikai)",
+                "Papaya"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "neem_1.jpg",
+            "actual": "Neem",
+            "prediction": "Papaya",
+            "confidence": 68.47,
+            "top3": [
+                "Papaya",
+                "Tomato",
+                "Lantana"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "neem_1_leaf_full.jpg",
+            "actual": "Neem",
+            "prediction": "Nooni",
+            "confidence": 32.75,
+            "top3": [
+                "Nooni",
+                "Padri",
+                "Malabar_Nut"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "neem_2.jpg",
+            "actual": "Neem",
+            "prediction": "Malabar_Nut",
+            "confidence": 35.76,
+            "top3": [
+                "Malabar_Nut",
+                "Nooni",
+                "Balloon_Vine"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "neem_3.jpg",
+            "actual": "Neem",
+            "prediction": "Common rue(naagdalli)",
+            "confidence": 76.9,
+            "top3": [
+                "Common rue(naagdalli)",
+                "Papaya",
+                "Drumstick"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "neem_leaf.jpg",
+            "actual": "Neem",
+            "prediction": "Gasagase",
+            "confidence": 44.23,
+            "top3": [
+                "Gasagase",
+                "Mint",
+                "Papaya"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "tulsi_1.jpg",
+            "actual": "Tulsi",
+            "prediction": "Tulsi",
+            "confidence": 43.34,
+            "top3": [
+                "Tulsi",
+                "Amruthaballi",
+                "Kambajala"
+            ],
+            "correct": true,
+            "top3_correct": true
+        },
+        {
+            "image": "tulsi_2.jpg",
+            "actual": "Tulsi",
+            "prediction": "Drumstick",
+            "confidence": 23.82,
+            "top3": [
+                "Drumstick",
+                "Common rue(naagdalli)",
+                "Papaya"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "tulsi_3.jpg",
+            "actual": "Tulsi",
+            "prediction": "Common rue(naagdalli)",
+            "confidence": 16.22,
+            "top3": [
+                "Common rue(naagdalli)",
+                "Drumstick",
+                "Eucalyptus"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "tulsi_4.jpg",
+            "actual": "Tulsi",
+            "prediction": "Amruthaballi",
+            "confidence": 35.66,
+            "top3": [
+                "Amruthaballi",
+                "Papaya",
+                "Kambajala"
+            ],
+            "correct": false,
+            "top3_correct": false
+        },
+        {
+            "image": "tulsi_5.jpg",
+            "actual": "Tulsi",
+            "prediction": "Tulsi",
+            "confidence": 59.28,
+            "top3": [
+                "Tulsi",
+                "Kambajala",
+                "Bhrami"
+            ],
+            "correct": true,
+            "top3_correct": true
+        }
+    ]
+}

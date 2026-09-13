@@ -1,0 +1,19 @@
+image,actual,prediction,confidence,top3,correct,top3_correct
+aloevera_1.jpg,Aloevera,Betel,20.23,Betel | Common rue(naagdalli) | Nooni,False,False
+aloevera_2.jpg,Aloevera,Bamboo,19.86,Bamboo | Papaya | Castor,False,False
+aloevera_3.jpg,Aloevera,Papaya,34.32,Papaya | Betel | Taro,False,False
+aloevera_4.jpg,Aloevera,Betel,29.02,Betel | Ginger | Ganigale,False,False
+mint_1.jpg,Mint,Common rue(naagdalli),84.74,Common rue(naagdalli) | Drumstick | Tulsi,False,False
+mint_2.jpg,Mint,Padri,27.98,Padri | Tomato | Nerale,False,False
+mint_3.jpg,Mint,Common rue(naagdalli),33.8,Common rue(naagdalli) | Coriender | Mint,False,True
+mint_4.jpg,Mint,Nelavembu,14.55,Nelavembu | Citron lime (herelikai) | Papaya,False,False
+neem_1.jpg,Neem,Papaya,68.47,Papaya | Tomato | Lantana,False,False
+neem_1_leaf_full.jpg,Neem,Nooni,32.75,Nooni | Padri | Malabar_Nut,False,False
+neem_2.jpg,Neem,Malabar_Nut,35.76,Malabar_Nut | Nooni | Balloon_Vine,False,False
+neem_3.jpg,Neem,Common rue(naagdalli),76.9,Common rue(naagdalli) | Papaya | Drumstick,False,False
+neem_leaf.jpg,Neem,Gasagase,44.23,Gasagase | Mint | Papaya,False,False
+tulsi_1.jpg,Tulsi,Tulsi,43.34,Tulsi | Amruthaballi | Kambajala,True,True
+tulsi_2.jpg,Tulsi,Drumstick,23.82,Drumstick | Common rue(naagdalli) | Papaya,False,False
+tulsi_3.jpg,Tulsi,Common rue(naagdalli),16.22,Common rue(naagdalli) | Drumstick | Eucalyptus,False,False
+tulsi_4.jpg,Tulsi,Amruthaballi,35.66,Amruthaballi | Papaya | Kambajala,False,False
+tulsi_5.jpg,Tulsi,Tulsi,59.28,Tulsi | Kambajala | Bhrami,True,True

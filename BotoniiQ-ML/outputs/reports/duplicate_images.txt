@@ -1,0 +1,205 @@
+DUPLICATE GROUP 1
+SHA256: dc7de80f86dd99baac995031570c0efa14afa9b0ba40c26332568774668e899a
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Badipala\1180.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Badipala\1182.jpg
+
+DUPLICATE GROUP 2
+SHA256: f0cb6ec716cbe3c30113e525b61a111643e2025a2a0eacf3323378e8a755c991
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Badipala\1184.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Badipala\1186.jpg
+
+DUPLICATE GROUP 3
+SHA256: a3aeac76bb7de8d5cd5fc1ad7e46e111e930160502343b2744311ceb3c34ace8
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Balloon_Vine\1324.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Balloon_Vine\1330.jpg
+
+DUPLICATE GROUP 4
+SHA256: 8562cad407d2e7ee2d6b354ccea5186da21525fe218f09182dcba6cc0c30b019
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Bhrami\2212.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Bhrami\2214.jpg
+
+DUPLICATE GROUP 5
+SHA256: 49e370dce05b7078771e78863ed7cc235b04f9444baed60811a7becd919d8555
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Bhrami\2220.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Bhrami\2222.jpg
+
+DUPLICATE GROUP 6
+SHA256: 47e4d4637625b10c934f5b5f06787327899560a5696c9baa7fd62e191ee6a310
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Doddpathre\178.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Doddpathre\180.jpg
+
+DUPLICATE GROUP 7
+SHA256: f85b45825b7144059fbc2f94dca46254b5ccf6c0d101e9bab9f11495a6c15124
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Doddpathre\248.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Doddpathre\250.jpg
+
+DUPLICATE GROUP 8
+SHA256: d7c21071d7a521e355ef52c82a3757720e0e6eb6a70ae9e4ff23e8abd2a9ddcf
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\192.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\194.jpg
+
+DUPLICATE GROUP 9
+SHA256: 37e3bc4e7237e2b75c17c68317190890f3910339119a956cb8ef3e3454bcf629
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\200.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\202.jpg
+
+DUPLICATE GROUP 10
+SHA256: 1b6919cdafb426113bbb808d17432c5bc6b89d21d2a0f839b0eed45e6f4d452a
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\206.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\208.jpg
+
+DUPLICATE GROUP 11
+SHA256: e61d4393ca069e5a941debd765e26739138dc2174c9f329d729e457e32ef840e
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\212.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\214.jpg
+
+DUPLICATE GROUP 12
+SHA256: 2563c87b3833748558255143a6552a0520d28db2e13a3cf641deea4513852a85
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\220.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\222.jpg
+
+DUPLICATE GROUP 13
+SHA256: 3110ba4cde58c0d2db55050f64ef3ee7317f682b48b5927bc739cdb2e110995c
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\248.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\250.jpg
+
+DUPLICATE GROUP 14
+SHA256: ab959fa0f79d13aa3025615a1c04b9ceb63bacd8c648b60433b06ad5921913fe
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\270.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\272.jpg
+
+DUPLICATE GROUP 15
+SHA256: 992287e41abc7764ed5aca80f74bd4aacd91909c37953c2e8234db4e3a5cd63a
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\274.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\276.jpg
+
+DUPLICATE GROUP 16
+SHA256: b37ddfae2460518beb9828499e2a241fc8a4e1345a33678a0d256ebdd2f3785a
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\284.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\286.jpg
+
+DUPLICATE GROUP 17
+SHA256: f06765f589b72c82cf4ccb66dcebb8cd0a1cfd9a601f95497fc0376f6dccd3d5
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\304.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\306.jpg
+
+DUPLICATE GROUP 18
+SHA256: 7ec911a2ea4abca3ef74302b0e2221007b04400ed548c1b19622424d7456769e
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\310.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\312.jpg
+
+DUPLICATE GROUP 19
+SHA256: 459659f5376bcf439d7ad2f0dcc0dc41d233867633f01d1cf9e3e3cf4e10a424
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\322.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Globe Amarnath\324.jpg
+
+DUPLICATE GROUP 20
+SHA256: 1dcfc68bbb6a13206c98c723cbcb3dffa73ab92f90337c1319a3aab664f8b65c
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Henna\472.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Henna\474.jpg
+
+DUPLICATE GROUP 21
+SHA256: 25ca0ad8732b77b7d2d7e281de5163fd02b84ccd1fb9d76b9cbbaac0eb520d40
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Henna\478.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Henna\480.jpg
+
+DUPLICATE GROUP 22
+SHA256: a546b3585bc3e505dd5a1fe879f0520b13a31a51264f6d72ad879fb1b91fb668
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\732.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\734.jpg
+
+DUPLICATE GROUP 23
+SHA256: c2f63608f5a40868aa5f697de19e9704b3ad5131f3e3f39d15109c607476f547
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\736.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\738.jpg
+
+DUPLICATE GROUP 24
+SHA256: 9463b16529a1642181bfd4c907fa8a3030e4cec8e57a4a4ffa460e287c4cf943
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\740.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\742.jpg
+
+DUPLICATE GROUP 25
+SHA256: 11c689ae0375daa0b8e9ccfb460cbfd656cae8713e8795c9a9b58ffb03eaa45e
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\750.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\752.jpg
+
+DUPLICATE GROUP 26
+SHA256: 8db5b2ace116dafcaa29b7120d581a7a79e8ab554117d9dacceca6d6d4650095
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\754.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\756.jpg
+
+DUPLICATE GROUP 27
+SHA256: e751c785cc0860968acd91d37a24ce419d8bcafb98611acb5c8da1f2516e3142
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\760.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\762.jpg
+
+DUPLICATE GROUP 28
+SHA256: 22019b74f8333da0460cc6082e5311747de57b667551363a0a276dff4d300b7b
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\772.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\774.jpg
+
+DUPLICATE GROUP 29
+SHA256: dfb4f671644c6bdb131ad1ba080361d2d31bf5b56fbd20827cf144629c557987
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\776.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\778.jpg
+
+DUPLICATE GROUP 30
+SHA256: 2fa0be1c523f2c7470290dbb54fa79acf7efaa3fb07da10138554f164d22ba3b
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\782.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\784.jpg
+
+DUPLICATE GROUP 31
+SHA256: d574af70270fe9580c825fe39edccd4832b79fd533d90e2db4208c340660c229
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\792.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\794.jpg
+
+DUPLICATE GROUP 32
+SHA256: a85db34f6558d3281c4ecbcf70449cb2bbd91af25558127a64febd2a88adbb82
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\798.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\800.jpg
+
+DUPLICATE GROUP 33
+SHA256: 9e6a765955d5dfda53e30a8d4275dbcc9aabb1f568910ecd24a940d76b7425db
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\808.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\810.jpg
+
+DUPLICATE GROUP 34
+SHA256: adc728fbe1023f699a3eaa48fc531ca49658b93d1ca43db552263464a4a7a122
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\842.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\844.jpg
+
+DUPLICATE GROUP 35
+SHA256: f5556d30c928a227315c6c9984344d4642e6dd7c2f63895c3e00b42dd40cb290
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\854.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\856.jpg
+
+DUPLICATE GROUP 36
+SHA256: a2fd0a4d44c2c97dbb37f6d5ad7f73fddc0c32e43acd29127f0e20c5894256b9
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\868.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\870.jpg
+
+DUPLICATE GROUP 37
+SHA256: 4010eedc2803734111a2ecbe6258b24c1e87e510bf01c075294d7a1838ed9bfc
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\880.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\882.jpg
+
+DUPLICATE GROUP 38
+SHA256: 8583302d2f2deb771df8367f0f2560d9174a48be98dcfb04e57a82da552eb274
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\896.jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Honge\898.jpg
+
+DUPLICATE GROUP 39
+SHA256: 8cdf2c04f59fc6faadfccdf7ed79649bcb99092316f2b089373da158b024aa4d
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Tecoma\20190920_143739 (1).jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Tecoma\20190920_143739.jpg
+
+DUPLICATE GROUP 40
+SHA256: e8541ba992fb4aa949febe2f8c2134cdf9825f70b63ee101850b5f374f7d2213
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Tecoma\20190920_143827 (1).jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Tecoma\20190920_143827.jpg
+
+DUPLICATE GROUP 41
+SHA256: 7b64da912d531ffa0e92704484491d6eb024c4d0f213aa2d0103f08dd82a8212
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Tecoma\20190920_143911 (1).jpg
+  D:\BotoniiQ\BotoniiQ-ML\dataset\raw\Medicinal Leaf dataset\Tecoma\20190920_143911.jpg
+

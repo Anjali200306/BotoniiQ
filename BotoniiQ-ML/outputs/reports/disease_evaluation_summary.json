@@ -1,0 +1,27 @@
+{
+    "model": "EfficientNet-B0",
+    "num_classes": 12,
+    "test_images": 383,
+    "correct_predictions": 383,
+    "incorrect_predictions": 0,
+    "top1_accuracy_percent": 100.0,
+    "top3_accuracy_percent": 100.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "device": "cpu",
+    "classes": [
+        "Kalanchoe_Healthy",
+        "Kalanchoe_Web_Blight",
+        "Kalanchoe_Yellow",
+        "Kalanchoe_Yellow_Blight",
+        "Neem_Healthy",
+        "Neem_Spot",
+        "Neem_Web_Blight",
+        "Neem_Yellow",
+        "Tulsi_Downy_Mildew",
+        "Tulsi_Healthy",
+        "Tulsi_Web_Blight",
+        "Tulsi_Yellow_Spot"
+    ]
+}

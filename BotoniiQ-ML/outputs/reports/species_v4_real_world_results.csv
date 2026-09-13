@@ -1,0 +1,19 @@
+image,image_path,actual_class,predicted_class,confidence_percent,top1_correct,top3_correct,top1_prediction,top1_confidence_percent,top2_prediction,top2_confidence_percent,top3_prediction,top3_confidence_percent
+aloevera_1.jpg,dataset\real_world_test\Aloevera\aloevera_1.jpg,Aloevera,Aloevera,99.7055,True,True,Aloevera,99.7055,Ginger,0.0853,Onion,0.0769
+aloevera_2.jpg,dataset\real_world_test\Aloevera\aloevera_2.jpg,Aloevera,Aloevera,99.0632,True,True,Aloevera,99.0632,Bamboo,0.8314,Ginger,0.0863
+aloevera_3.jpg,dataset\real_world_test\Aloevera\aloevera_3.jpg,Aloevera,Aloevera,94.118,True,True,Aloevera,94.118,Bamboo,1.7147,Ginger,0.7513
+aloevera_4.jpg,dataset\real_world_test\Aloevera\aloevera_4.jpg,Aloevera,Aloevera,99.6272,True,True,Aloevera,99.6272,Ginger,0.3309,Bamboo,0.0166
+mint_1.jpg,dataset\real_world_test\Mint\mint_1.jpg,Mint,Mint,99.9923,True,True,Mint,99.9923,Tulsi,0.0054,Padri,0.0013
+mint_2.jpg,dataset\real_world_test\Mint\mint_2.jpg,Mint,Mint,90.016,True,True,Mint,90.016,Tulsi,5.0394,Kambajala,1.919
+mint_3.jpg,dataset\real_world_test\Mint\mint_3.jpg,Mint,Mint,99.9536,True,True,Mint,99.9536,Tulsi,0.0331,Padri,0.0055
+mint_4.jpg,dataset\real_world_test\Mint\mint_4.jpg,Mint,Mint,99.1003,True,True,Mint,99.1003,Tulsi,0.3387,Betel,0.0925
+neem_1.jpg,dataset\real_world_test\Neem\neem_1.jpg,Neem,Neem,49.6766,True,True,Neem,49.6766,Aloevera,30.9982,Mint,16.5324
+neem_1_leaf_full.jpg,dataset\real_world_test\Neem\neem_1_leaf_full.jpg,Neem,Neem,29.0775,True,True,Neem,29.0775,Padri,21.4086,Chakte,5.2007
+neem_2.jpg,dataset\real_world_test\Neem\neem_2.jpg,Neem,Neem,95.76,True,True,Neem,95.76,Chakte,2.4363,Malabar_Nut,0.7216
+neem_3.jpg,dataset\real_world_test\Neem\neem_3.jpg,Neem,Neem,89.4747,True,True,Neem,89.4747,Common rue(naagdalli),7.7687,Nelavembu,0.8465
+neem_leaf.jpg,dataset\real_world_test\Neem\neem_leaf.jpg,Neem,Mint,91.9683,False,False,Mint,91.9683,Gasagase,5.4215,Catharanthus,0.5696
+tulsi_1.jpg,dataset\real_world_test\Tulsi\tulsi_1.jpg,Tulsi,Tulsi,99.6127,True,True,Tulsi,99.6127,Mint,0.3819,Amruthaballi,0.0013
+tulsi_2.jpg,dataset\real_world_test\Tulsi\tulsi_2.jpg,Tulsi,Tulsi,99.7695,True,True,Tulsi,99.7695,Mint,0.1444,Common rue(naagdalli),0.0294
+tulsi_3.jpg,dataset\real_world_test\Tulsi\tulsi_3.jpg,Tulsi,Mint,53.9158,False,True,Mint,53.9158,Tulsi,44.4496,Citron lime (herelikai),0.5063
+tulsi_4.jpg,dataset\real_world_test\Tulsi\tulsi_4.jpg,Tulsi,Tulsi,93.6344,True,True,Tulsi,93.6344,Padri,4.575,Amruthaballi,0.4644
+tulsi_5.jpg,dataset\real_world_test\Tulsi\tulsi_5.jpg,Tulsi,Tulsi,99.7772,True,True,Tulsi,99.7772,Kambajala,0.1159,Mint,0.0399

@@ -1,0 +1,13 @@
+Class,Precision,Recall,F1-Score,Support
+Kalanchoe_Healthy,1.0000,1.0000,1.0000,32
+Kalanchoe_Web_Blight,1.0000,1.0000,1.0000,32
+Kalanchoe_Yellow,1.0000,1.0000,1.0000,30
+Kalanchoe_Yellow_Blight,1.0000,1.0000,1.0000,32
+Neem_Healthy,1.0000,1.0000,1.0000,37
+Neem_Spot,1.0000,1.0000,1.0000,32
+Neem_Web_Blight,1.0000,1.0000,1.0000,30
+Neem_Yellow,1.0000,1.0000,1.0000,34
+Tulsi_Downy_Mildew,1.0000,1.0000,1.0000,30
+Tulsi_Healthy,1.0000,1.0000,1.0000,32
+Tulsi_Web_Blight,1.0000,1.0000,1.0000,31
+Tulsi_Yellow_Spot,1.0000,1.0000,1.0000,31
