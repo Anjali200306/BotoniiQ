@@ -56,3 +56,16 @@ export const scanPlant = async (
 
   return response.data;
 };
+
+export interface ScanHistoryResponse {
+  count: number;
+  scans: ScanResult[];
+}
+
+export const getScanHistory = async (): Promise<ScanHistoryResponse> => {
+  const response = await api.get<ScanHistoryResponse>(
+    "/scan/history"
+  );
+
+  return response.data;
+};
